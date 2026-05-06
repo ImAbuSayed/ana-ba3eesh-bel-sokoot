@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-ba3eesh-bel-sokoot/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Ana Ba3eesh Bel Sokoot](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
